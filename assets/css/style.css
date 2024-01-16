@@ -1155,3 +1155,11 @@ section {
   border-radius: 20px;
   text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  .hero-container {
+    margin-left: 0%;
+    margin-top: 52%;
+    padding-left: 0%;
+  }
+}
